@@ -2,7 +2,7 @@
 
 <a href="#cookie-share-服务器版本">简体中文</a>
 
-This is a server for cookie share. It is a simple server that can store and share cookies.
+This is a server for [cookie-share](https://github.com/fangyuan99/cookie-share). It is a simple server that can store and share cookies.
 
 ## Features
 
@@ -161,7 +161,7 @@ For example: `http://localhost:3000/secret` (note: do not add a trailing slash)
 
 # Cookie Share 服务器版本
 
-这是 Cookie Share 的自托管服务器版本，使用 Node.js 和 Express 开发，可以轻松部署到您自己的服务器上。
+这是 [cookie-share](https://github.com/fangyuan99/cookie-share) 的自托管服务器版本，使用 Node.js 和 Express 开发，可以轻松部署到您自己的服务器上。
 
 ## 功能
 
